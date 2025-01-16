@@ -1,4 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Funedu
 
 Chương trình chatbot được tạo bởi Funedu
 
